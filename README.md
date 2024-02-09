@@ -33,3 +33,4 @@ I also wrote knowlegde check.
 #DAY5
 I learned the basics of forms, using elements like <form> to gather user input on a webpage. Working with forms involves incorporating input elements like <input> and <button> to create interactive and user-friendly web forms.
 I've studied additional functions for forms, like using <label> to improve accessibility and <select> for dropdown menus. These features enhance the user experience by providing clear labels and interactive options in web forms.
+I've learned about different types of form elements, such as checkboxes (<input type="checkbox">) for multiple-choice options and radio buttons (<input type="radio">) for selecting a single option from a list. These elements add variety and flexibility to web forms, allowing users to make specific choices based on the form's requirements.
